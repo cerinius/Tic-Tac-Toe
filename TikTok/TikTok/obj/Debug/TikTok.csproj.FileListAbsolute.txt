@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\TikTok\TikTok\bin\Debug\TikTok.exe.config
+C:\Users\User\source\repos\TikTok\TikTok\bin\Debug\TikTok.exe
+C:\Users\User\source\repos\TikTok\TikTok\bin\Debug\TikTok.pdb
+C:\Users\User\source\repos\TikTok\TikTok\obj\Debug\TikTok.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TikTok\TikTok\obj\Debug\TikTok.TicTac.resources
+C:\Users\User\source\repos\TikTok\TikTok\obj\Debug\TikTok.Properties.Resources.resources
+C:\Users\User\source\repos\TikTok\TikTok\obj\Debug\TikTok.csproj.GenerateResource.cache
+C:\Users\User\source\repos\TikTok\TikTok\obj\Debug\TikTok.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TikTok\TikTok\obj\Debug\TikTok.exe
+C:\Users\User\source\repos\TikTok\TikTok\obj\Debug\TikTok.pdb
